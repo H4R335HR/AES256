@@ -1,8 +1,7 @@
 # AES256
 Two scripts to demonstrate AES 256 CBC Encryption as well as decryption
 Encryptor Script:
-
-```usage: aes256_encryptor.py [-h] [-f] input
+usage: aes256_encryptor.py [-h] [-f] input
 
 AES 256 CBC Encryption
 
