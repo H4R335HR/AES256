@@ -12,16 +12,20 @@ positional arguments:
 
 options:
   -h, --help  show this help message and exit
+
+  
   -f, --file  Input is a filename
 
 
 
-  Decryptor Script:
+Decryptor Script:
 
-  usage: aes256_decryptor.py [-h] [-v]
+usage: aes256_decryptor.py [-h] [-v]
 
 
 options:
   -h, --help     show this help message and exit
+
+  
   -v, --verbose  Verbose Output
 
